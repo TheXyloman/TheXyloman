@@ -35,8 +35,8 @@ My focus is simple:
 ```text
 Automation     Rewst · n8n · PowerShell · Jinja
 AI Assistants  ChatGPT · Claude · Microsoft Copilot
-Coding AI     GitHub Copilot
-Local AI      Ollama
+Coding AI      GitHub Copilot
+Local AI       Ollama
 Cloud & M365   Entra ID · Intune · Exchange · Graph API
 MSP Stack      Autotask · MSP Bots · ScreenConnect
 Security       Conditional Access · Email Security · Endpoint Protection
