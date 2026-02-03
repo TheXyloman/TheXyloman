@@ -6,11 +6,6 @@
 
 I design systems that remove friction — for engineers, teams, and users.
 
-[🌐 Website](https://elliotrees.co.uk) ·
-[𝕏 X](https://x.com/) ·
-[🦋 Bluesky](https://bsky.app/) ·
-[✍️ Substack](https://substack.com/)
-
 </div>
 
 ---
